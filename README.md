@@ -55,3 +55,5 @@ That's it. Each time you push to your repository, this module runs `pm2 pull <ap
 Copyright 2016 Anton Isaykin.
 
 Licensed under the [MIT License](https://github.com/oowl/pm2-webhook/blob/master/LICENSE).
+
+Test
